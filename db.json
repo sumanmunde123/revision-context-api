@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "name": "suman",
+      "age": "23",
+      "dateOfBirth": "27th feb",
+      "stateOfResidence": "Maharashtra",
+      "address": "Beed",
+      "pincode": "431515",
+      "id": 1
+    },
+    {
+      "name": "sunil",
+      "age": "43",
+      "dateOfBirth": "4th dec",
+      "stateOfResidence": "Maharashtra",
+      "address": "Beed",
+      "pincode": "431515",
+      "id": 1
+    },
+    {
+      "name": "suman",
+      "age": "23",
+      "dateOfBirth": "27-02-97",
+      "stateOfResidence": "Talegaon",
+      "address": "Parli vaijnath",
+      "pincode": "431515",
+      "id": 2
+    },
+    {
+      "name": "suman",
+      "age": "23",
+      "dateOfBirth": "27-02-97",
+      "stateOfResidence": "Talegaon",
+      "address": "Parli vaijnath",
+      "pincode": "431515",
+      "id": 3
+    },
+    {
+      "name": "suman",
+      "age": "23",
+      "dateOfBirth": "27-02-97",
+      "stateOfResidence": "Talegaon",
+      "address": "Parli vaijnath",
+      "pincode": "431515",
+      "id": 4
+    }
+  ]
+}
